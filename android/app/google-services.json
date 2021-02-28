@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304135223552",
+    "firebase_url": "https://auxilium-ecb91.firebaseio.com",
+    "project_id": "auxilium-ecb91",
+    "storage_bucket": "auxilium-ecb91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304135223552:android:a8d83a299d2933c6dd5be5",
+        "android_client_info": {
+          "package_name": "com.example.learnify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304135223552-fit46hgnba32hpejcf4gdc1egfiv8v71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnify",
+            "certificate_hash": "3e7ccb9a7ea1e3c703464d6a0ee5829afc9dd288"
+          }
+        },
+        {
+          "client_id": "304135223552-uruj9bnctpkhj5qsphkf9vvv913ernrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBObV8T8J_8O0ORx1Gr4njPLDubWCF9KZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304135223552-uruj9bnctpkhj5qsphkf9vvv913ernrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
