@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:learnify/game/game.dart';
 import 'package:learnify/pages/homepage.dart';
 import 'package:learnify/pages/textToSpeech.dart';
 import 'package:learnify/pages/friendly.dart';
@@ -23,10 +24,10 @@ class GridDashboard extends StatelessWidget {
       title: "Counsellor",
       img: "assets/images/counsellor.png",
       screen: CallCounsellor());
-  Items item5 = new Items(
-      title: "Games", img: "assets/images/book.png", screen: Resources());
+  Items item5 =
+      new Items(title: "Games", img: "assets/images/more.png", screen: Game());
   Items item6 =
-      new Items(title: "More", img: "assets/images/more.png", screen: Home());
+      new Items(title: "More", img: "assets/images/book.png", screen: Home());
 
   @override
   Widget build(BuildContext context) {
